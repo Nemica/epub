@@ -2,9 +2,9 @@
 
 `epub` is a command line tool for generating epub files from text and metadata files.
 
-## Installing
+## Installation
 
-This tool has not been published to npm yet. In order to use it globally, clone this repository to your computer, run `npm install` and `npm link -g` from the root directory. 
+```npm install @nemica/epub --global```
 
 ## Usage
 
