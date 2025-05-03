@@ -1,6 +1,6 @@
 {
   "name": "@nemica/epub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimalist markdown to epub CLI tool.",
   "main": "index.js",
   "keywords": [
