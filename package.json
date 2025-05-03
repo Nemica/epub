@@ -1,8 +1,12 @@
 {
   "name": "epub",
   "version": "1.0.0",
-  "description": "Minimalist markup to epub converter.",
+  "description": "A minimalist markdown to epub CLI tool.",
   "main": "index.js",
+  "keywords": [
+    "epub",
+    "cli"
+  ],
   "type": "module",
   "scripts": {
     "start": "node index.js",
