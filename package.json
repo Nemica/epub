@@ -1,0 +1,21 @@
+{
+  "name": "epub",
+  "version": "1.0.0",
+  "description": "Minimalist markup to epub converter.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "epub": "index.js"
+  },
+  "author": "Nemica",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "command-line-args": "^6.0.1",
+    "command-line-usage": "^7.0.3"
+  }
+}
